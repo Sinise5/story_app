@@ -1,0 +1,16 @@
+{
+  "title": "Selamat Datang",
+  "greeting": "Halo, apa kabar?",
+  "settings": "Pengaturan",
+  "welcome": "Selamat Datang Kembali!",
+  "continuex": "Masuk ke akun Anda untuk melanjutkan",
+  "signin": "Masuk",
+  "text_signup": "Belum punya akun? Daftar",
+  "signup": "Daftar",
+  "text_signin": "Sudah punya akun? Masuk di sini",
+  "stories": "Cerita",
+  "add_storie": "Tambah Cerita Baru",
+  "description": "Deskripsi",
+  "image": "Ketuk untuk memilih gambar",
+  "upload": "Unggah Cerita"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Welcome",
+  "greeting": "Hello, how are you?",
+  "settings": "Settings",
+  "welcome": "Selamat Datang Kembali!",
+  "continuex": "Login to your account to continue",
+  "signin": "Sign In",
+  "text_signup": "Don\\'t have an account? Sign up",
+  "signup": "Sign Up",
+  "text_signin": "Already have an account? Sign in here",
+  "stories": "Stories",
+  "add_storie": "Add New Story",
+  "description": "Description",
+  "image": "Tap to select image",
+  "upload": "Upload Story"
+}
